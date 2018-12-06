@@ -2,7 +2,7 @@
 
 This code exports lichess game database in a standard PGN format.
 
-Files are available on [https://database.lichess.org](https://database.lichess.org).
+Files are available on [https://database.lila.org](https://database.lila.org).
 
 Use them to do great things. Please share the results!
 
